@@ -4,7 +4,20 @@ Hi 👋 My name is Rohit Kumar Suman
 Frontend developer
 ------------------
 
-I'm from a biotechnology background but Have a good understanding of building web applications that gives an awesome experience to users. I believe we should be like students who learn new things daily. That's why I seek new technologies to learn every day. I'm currently learning Blockchain development and my aim is to make a decentralized world. Timeline of my journey - 2018 - 2021 -> B.Sc Biotechnology I completed my Bachelor's in Biotechnology from Dr. Bhim Rao Ambedkar University, Agra, Uttar Pradesh. I also have a research paper. Dec 2021 -> Front-End Journey Starts From August onwards I started exploring different fields and eventually found Front-End fascinating. March 2022 -> Front-End Completed Till 26, March I learned Html, CSS, JavaScript, Git/Github, BootStrap, Tailwind-CSS, and started building projects. Which you can see in my work section. March 2022 - Present -> Open Source Contribution After building some projects I started contributing to Open Source and Communities. March 2022 - Present -> Blockchain Development While learning Front-End and contributing to open source, I find about Web3 feels more fascinating to me. So, I start learning it.
+I'm from a biotechnology background but Have a good understanding of building web applications that gives an awesome experience to users. I believe we should be like students who learn new things daily. That's why I seek new technologies to learn every day. I'm currently learning Blockchain development and my aim is to make a decentralized world. 
+
+Timeline of my journey - 
+
+2018 - 2021 -> B.Sc Biotechnology -
+I completed my Bachelor's in Biotechnology from Dr. Bhim Rao Ambedkar University, Agra, Uttar Pradesh. I also have a research paper. 
+
+Dec 2021 -> Front-End Journey Starts -
+From August onwards I started exploring different fields and eventually found Front-End fascinating.
+
+March 2022 -> Front-End Completed -
+Till 26, March I learned Html, CSS, JavaScript, Git/Github, BootStrap, Tailwind-CSS, and started building projects. 
+
+March 2022 - Present -> Blockchain Development While learning Front-End and contributing to open source, I find about Web3 feels more fascinating to me. So, I start learning it.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://frontenddeveloperportfolio.netlify.app/](http://frontenddeveloperportfolio.netlify.app/)

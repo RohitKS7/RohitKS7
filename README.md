@@ -20,7 +20,7 @@ Till 26, March I learned Html, CSS, JavaScript, Git/Github, BootStrap, Tailwind-
 March 2022 - Present -> Blockchain Development While learning Front-End and contributing to open source, I find about Web3 feels more fascinating to me. So, I start learning it.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [portfolio-of-rohit.netlify.app](http://frontenddeveloperportfolio.netlify.app/)
+* 🖥️  See my portfolio at [portfolio-of-rohit.netlify.app](https://portfolio-of-rohit.netlify.app/)
 * ✉️  You can contact me at [rohitksbusiness@gmail.com](mailto:rohitksbusiness@gmail.com)
 * 🧠  I'm learning Solidity for Web3!
 * 🤝  I'm open to collaborating on any project if it A-lines in my skills set!

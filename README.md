@@ -1,28 +1,15 @@
-Hi 👋 My name is Rohit Kumar Suman
+Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Rohit!](https://linkfree.me/connect-with-rohit)
 ==================================
 
-Frontend developer
-------------------
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ARZ-9gYFm-ZdKSOe3pRhYivqtuf9fpNSpI5P_Tv1562jRPqp4eS1-76p_w2UY9Fmv3jxQsXD4rKAZJMe0-phFhQCYth3-sXp4azU6yT4md-el-QuL6v3fd9T3756jwMjNa-43Xacd1m47PDEprkdkO0PSAGdirCEMDOHqibUi7mQOTTcQqxl9wlzzw/s1500/2.png)
 
-I'm from a biotechnology background but Have a good understanding of building web applications that gives an awesome experience to users. I believe we should be like students who learn new things daily. That's why I seek new technologies to learn every day. I'm currently learning Blockchain development and my aim is to make a decentralized world. 
+I build Web Based Applications & Tools and love to play with Websites. My motto is to be like students who learn new things daily. That's why I seek new technologies to learn every day.
 
-Timeline of my journey - 
-
-2018 - 2021 -> B.Sc Biotechnology -
-I completed my Bachelor's in Biotechnology from Dr. Bhim Rao Ambedkar University, Agra, Uttar Pradesh. I also have a research paper. 
-
-Dec 2021 -> Front-End Journey Starts -
-From August onwards I started exploring different fields and eventually found Front-End fascinating.
-
-March 2022 -> Front-End Completed -
-Till 26, March I learned Html, CSS, JavaScript, Git/Github, BootStrap, Tailwind-CSS, and started building projects. 
-
-March 2022 - Present -> Blockchain Development While learning Front-End and contributing to open source, I find about Web3 feels more fascinating to me. So, I start learning it.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [portfolio-of-rohit.netlify.app](https://portfolio-of-rohit.netlify.app/)
 * ✉️  You can contact me at [rohitksbusiness@gmail.com](mailto:rohitksbusiness@gmail.com)
-* 🧠  I'm learning Solidity for Web3!
+* 🧠  I'm currently learning Smart Contract Development for Web3!
 * 🤝  I'm open to collaborating on any project if it A-lines in my skills set!
 * ⚡  I'm secrectly working on an awesome project!
 
@@ -68,8 +55,18 @@ src="https://img.shields.io/github/followers/RohitKS7?logo=github&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/RohitKS7/Nagraj-TheKingofSnakes.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RohitKS7&repo=Nagraj-TheKingofSnakes.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RohitKS7/TensionFreeNotes.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RohitKS7&repo=TensionFreeNotes.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/RohitKS7/Nagraj-TheKingofSnakes.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RohitKS7&repo=Nagraj-TheKingofSnakes.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/RohitKS7/TensionFreeNotes.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RohitKS7&repo=TensionFreeNotes.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/RohitKS7/window11clone.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RohitKS7&repo=window11clone.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/RohitKS7/window11clone.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RohitKS7&repo=window11clone.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+    <a href="https://github.com/RohitKS7/Blogging-Site" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RohitKS7&repo=Blogging-Site&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+
+

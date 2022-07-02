@@ -9,7 +9,7 @@ src="https://img.shields.io/github/followers/RohitKS7?logo=github&style=for-the-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ARZ-9gYFm-ZdKSOe3pRhYivqtuf9fpNSpI5P_Tv1562jRPqp4eS1-76p_w2UY9Fmv3jxQsXD4rKAZJMe0-phFhQCYth3-sXp4azU6yT4md-el-QuL6v3fd9T3756jwMjNa-43Xacd1m47PDEprkdkO0PSAGdirCEMDOHqibUi7mQOTTcQqxl9wlzzw/s1500/2.png)
 
 # 💫 About Me:
-🔭 I’m currently working on improving my React skills<br>👯 I’m looking to collaborate on on any project in my current skill set!<br>🤝 I’m looking for help with finding an Internship<br>🌱 I’m currently learning Smart contract development, Hardhat, Alchemy, Chainlink, etc.<br>💬 Ask me about CSS, SOLIDITY, DEFI, WEB3, JAVASCRIPT, And RESOURCES<br>⚡ Fun fact I'm a Content Creator, Blogger too. <br> 🖥️  See my portfolio at [portfolio-of-rohit.netlify.app](https://portfolio-of-rohit.netlify.app/)
+🔭 I’m currently working on improving my React skills<br>👯 I’m looking to collaborate on any project in my current skill set!<br>🤝 I’m looking for help with finding an Internship<br>🌱 I’m currently learning Smart contract development, Hardhat, Alchemy, Chainlink, etc.<br>💬 Ask me about CSS, SOLIDITY, DEFI, WEB3, JAVASCRIPT, And RESOURCES<br>⚡ Fun fact I'm a Content Creator, Blogger too. <br> 🖥️  See my portfolio at [portfolio-of-rohit.netlify.app](https://portfolio-of-rohit.netlify.app/)
 
 
 ## 🌐 Socials:

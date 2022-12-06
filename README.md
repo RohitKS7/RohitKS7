@@ -1,4 +1,4 @@
-Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Rohit!](https://linkfree.me/connect-with-rohit)
+Hi 👋, I'm [Rohit!](https://linkfree.me/connect-with-rohit)
 ==================================
 
  <a href="https://www.twitter.com/SumanRohitK7" target="_blank" rel="noreferrer"><img

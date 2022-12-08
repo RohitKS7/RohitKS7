@@ -9,7 +9,7 @@ src="https://img.shields.io/github/followers/RohitKS7?logo=github&style=for-the-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ARZ-9gYFm-ZdKSOe3pRhYivqtuf9fpNSpI5P_Tv1562jRPqp4eS1-76p_w2UY9Fmv3jxQsXD4rKAZJMe0-phFhQCYth3-sXp4azU6yT4md-el-QuL6v3fd9T3756jwMjNa-43Xacd1m47PDEprkdkO0PSAGdirCEMDOHqibUi7mQOTTcQqxl9wlzzw/s1500/2.png)
 
 # 💫 About Me:
-🔭 I’m currently working on improving my React skills<br>👯 I’m looking to collaborate on any project in my current skill set!<br>🤝 I’m looking for help with finding an Internship<br>🌱 I’m currently learning Smart contract development, Hardhat, Alchemy, Chainlink, etc.<br>💬 Ask me about CSS, SOLIDITY, DEFI, WEB3, JAVASCRIPT, And RESOURCES<br>⚡ Fun fact I'm a Content Creator, Blogger too. <br> 🖥️  See my portfolio at [My-Portfolio](https://my-portfolio-rohitks7.vercel.app/)
+🔭 I build Web Applicatons with Modern UI/UX, Web3 Dapp with real time blockchain event fetching, NFTs, and Love to play with different DeFi protocols <br> 🤝 I’m finding a Job to challenge "Real" world problems <br>💬 Ask me about CSS, SOLIDITY, DEFI, WEB3, JAVASCRIPT, and Life-Science related topics <br>⚡ Fun fact I was a Researcher Scientist once <br> 🖥️  See my portfolio at [My-Portfolio](https://my-portfolio-rohitks7.vercel.app/)
 
 
 ## 🌐 Socials:

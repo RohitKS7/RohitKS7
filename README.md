@@ -6,7 +6,7 @@ src="https://img.shields.io/twitter/follow/SumanRohitK7?logo=twitter&style=for-t
 /></a><a href="https://www.github.com/RohitKS7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RohitKS7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-![](https://raw.githubusercontent.com/RohitKS7/images/main/rohit's%20Header.png?token=GHSAT0AAAAAAB5SMOJGK5LHEDV4XTBS6NQYY63KIEQ)
+![](https://cdn-128.anonfiles.com/Z7hd35Vcyb/eecc348c-1675320833/rohit's%20Header.png)
 
 # 💫 About Me:
 🔭 I build Web Applicatons with Modern UI/UX, Web3 Dapp with real time blockchain event fetching, NFTs, and Love to play with different DeFi protocols <br> 🤝 I’m finding a Job to challenge "Real" world problems <br>💬 Ask me about CSS, SOLIDITY, DEFI, WEB3, JAVASCRIPT, and Life-Science related topics <br>⚡ Fun fact I was a Researcher Scientist once <br> 🖥️  See my portfolio at [My-Portfolio](https://my-portfolio-rohitks7.vercel.app/)

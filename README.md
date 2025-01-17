@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Suman</h1>
-<h3 align="center">Front-end Developer Seeking a Job</h3>
+<h3 align="center">Web-3 Front-end Developer Seeking Opportunities to Tackle "Real World Challenges"</h3>
 
 [![](https://visitcount.itsvg.in/api?id=RohitKS7&icon=0&color=1)](https://visitcount.itsvg.in)
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Dev-OverFlow - A StackOverFlow Clone](https://github.com/RohitKS7/Dev-OverFlow-Application)
 
-- 🌱 I’m currently learning **Web-3 Universe**
+- 🌱 I’m currently learning **Avalanche Blockchain and Ecosystem**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-rohitks7.vercel.app/](https://my-portfolio-rohitks7.vercel.app/)
 
-- 💬 Ask me about **React, CSS Complex Styling, Web-3**
+- 💬 Ask me about **NextJS, Web-3**
 
 - 📫 How to reach me **rohitksbusiness@gmail.com**
 

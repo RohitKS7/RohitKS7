@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/sumanrohitk7" target="blank"><img src="https://img.shields.io/twitter/follow/sumanrohitk7?logo=twitter&style=for-the-badge" alt="sumanrohitk7" /></a> </p>
 
-- 🚀 I’m currently working on [Dev-OverFlow - A StackOverFlow Clone](https://github.com/RohitKS7/Dev-OverFlow-Application)
+- 🚀 I’m currently working on [AmanaDefi - An Omnichain Yield Aggregator built on Zetachain](https://amanadefi.com)
 
-- 🌱 I’m currently learning **Avalanche L1 DApp Development”** or **“Zero-Knowledge Proofs (ZKPs) & Rollups**
+- 🌱 I’m currently learning **How AI will shape Blockchain Domain** and **Crypto Trading**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-rohitks7.vercel.app/](https://my-portfolio-rohitks7.vercel.app/)
 
-- 💬 Ask me about **NextJS, Web-3, AI Integration on Frontend with APIs**
+- 💬 Ask me about **NextJS, Web-3, AI Integration**
 
 - 📢 How to reach me **rohitksbusiness@gmail.com**
 

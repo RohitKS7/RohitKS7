@@ -1,21 +1,31 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Suman</h1>
-<h3 align="center">Web-3 Front-end Developer currently on an Adventure Tackling "Real World Challenges"</h3>
+<h3 align="center">"A Frontend Engineer | Founder | Thinker | Doer | Researcher | Full-Stack Capable"</h3>
+<h4 align="center">I enjoy building, learning, deploying, brainstorming, sharing ideas, and exploring every industry.</h4>
 
 [![](https://visitcount.itsvg.in/api?id=RohitKS7&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/sumanrohitk7" target="blank"><img src="https://img.shields.io/twitter/follow/sumanrohitk7?logo=twitter&style=for-the-badge" alt="sumanrohitk7" /></a> </p>
 
-- 🚀 I’m currently working on [AmanaDefi - An Omnichain Yield Aggregator built on Zetachain](https://amanadefi.com)
+**My Journey :**
 
-- 🌱 I’m currently learning **How AI will shape Blockchain Domain** and **Crypto Trading**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-rohitks7.vercel.app/](https://my-portfolio-rohitks7.vercel.app/)
-
-- 💬 Ask me about **NextJS, Web-3, AI Integration**
-
-- 📢 How to reach me **rohitksbusiness@gmail.com**
-
-- ✨ Fun fact **I'm a Biotechnology Graduate**
+- Biotechnology Graduate {2021}
+- Learned Finance, SEO, Blogging, Freelance, Graphic Designing, Web Development, Web3 Smart Contract Development, Frontend Development, AI {2021-2025}
+- Active on Socials, posting about my learning.
+- Built First-Ever NFT Website in 2021 when we were in the NFT Bubble. It never got launched. (Teammates became ghosts after the bubble.) [project link](https://codepen.io/rohitks7/pen/YzezrBx?editors=0100)
+- Built an Agency Landing Page. Never got launched (Same teammates (T-T), hope you got the gist) [project link](https://non-standard.netlify.app/)
+- Built Multiple Self-Projects (links are in portfolio site)
+- Got hit with Imposter Syndrome in 2023, left development for almost 8months.
+- Came back again in 2024 with a strong spirit and mindset.
+- Started posting on Socials again.
+- Searched for opportunities actively
+- Became Frontend Engineer & Core Contributor @AmanaDefi
+- In August, Amana got hacked and had all of its funds exploited because of a smart contract function.
+- Zetachain, the backer and ecosystem partner of Amana, backed off as the only investor of AmanaDefi.
+- The team got disbanded.
+- Actively searching for new opportunities to contribute again. 
+- Never listened back from almost 50+companies.
+- Building on my ideas and side projects while I'm looking for other opportunities.
+- To Be continued...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

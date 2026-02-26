@@ -1,5 +1,7 @@
 # Rohit Kumar Suman
-**Security Researcher | Founder of GuardClaw**
+**AI Security Researcher | Founder of GuardClaw**
+
+![Alt text for the image](https://pbs.twimg.com/profile_banners/1450330986542034948/1771929346/1080x360)
 
 Building security tools for the AI agent ecosystem.
 

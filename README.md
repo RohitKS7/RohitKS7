@@ -2,6 +2,8 @@
 
 **A dev. Indie builder. Building open source tools for the OpenClaw AI agent community.**
 
+<image src="https://raw.githubusercontent.com/RohitKS7/guardclaw/refs/heads/master/guardclaw-github-banner.png?token=GHSAT0AAAAAADWEF6V5HBDDLFZJ2YOS3QFC2NNNJQQ" alt="" width="1280" height="640"/>
+
 ---
 
 ### What I do

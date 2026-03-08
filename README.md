@@ -1,46 +1,49 @@
-# Rohit Kumar Suman
-**Security Researcher | Founder of GuardClaw**
+# Hi, I'm Rohit 🌿
 
-![Alt text for the image](https://pbs.twimg.com/profile_banners/1450330986542034948/1771929346/1080x360)
-
-Building security tools for the AI agent ecosystem.
-
-## Current Focus
-
-🔒 **GuardClaw** - Security auditing for OpenClaw deployments  
-🛡️ Helping teams deploy AI agents without becoming security headlines  
-📝 Writing about AI agent security vulnerabilities
-
-## Background
-
-- **Ex-AmanaDeFi Core Team** - Frontend engineer on DeFi protocol (learned security the hard way after $350 exploit)
-- **Biotechnology → Web3 → AI Security** - Non-traditional path led to unique perspective on system vulnerabilities
-- **2021-2025** - Built across NFTs, DeFi, smart contracts, now focused on AI agent security
-
-## What I'm Building
-
-- [GuardClaw](https://guardclaw.dev) - Security auditing service for OpenClaw
-- OpenClaw security research and tooling
-- Educational content on AI agent vulnerabilities
-
-## Recent Work
-
-- Analyzing CVE-2026-25253 and other OpenClaw vulnerabilities
-- Building security audit methodology for AI agents
-- Creating tools to detect malicious skills and exposed credentials
-
-## Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,tailwind,mongodb,git,figma,solidity"/>
-</p>
-
-## Connect
-
-- 🌐 [guardclaw.dev](https://guardclaw.dev)
-- 🐦 [Twitter](https://twitter.com/sumanrohitk7)
-- 💼 [LinkedIn](https://linkedin.com/in/rohit-kumar-suman)
+**A dev. Indie builder. Building open source tools for the OpenClaw AI agent community.**
 
 ---
 
-**Currently:** Conducting security research on AI agent deployments. If you're deploying OpenClaw and concerned about security, [let's talk](mailto:contact@guardclaw.dev).
+### What I do
+
+I spend time in OpenClaw communities - Discord, Reddit, Twitter/X. I find the questions that come up every week with no clean answer. Then I build a free, open source tool that answers them properly.
+
+Everything I build lives under [GuardClaw](https://guardclaw.dev) — an OpenClaw tools hub.
+
+---
+
+### Current tools
+
+| Tool | What it solves | Status |
+|------|---------------|--------|
+| [OpenClaw Model Picker](https://guardclaw.dev/tools/model-picker) | "Which model should I use with OpenClaw?" | 🟢 Live |
+| More shipping soon | Researching now | 🟡 Coming |
+
+---
+
+### How I work
+
+🔍 **Research** — Find what gets asked twice in the community. 
+🔨 **Build** — Beautiful by default. 3-4 days max.  
+📦 **Ship free** — Open source. Community first. Always.
+
+---
+
+### Building in public
+
+Every tool I build gets documented publicly on Twitter/X. The idea, the design decisions, the launch.
+
+Follow along → [@SumanRohitK7](https://twitter.com/SumanRohitK7)
+
+---
+
+### Stack
+
+![React](https://img.shields.io/badge/React-1A4D2E?style=flat&logo=react&logoColor=FAF7F2)
+![Next.js](https://img.shields.io/badge/Next.js-1A4D2E?style=flat&logo=next.js&logoColor=FAF7F2)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A4D2E?style=flat&logo=typescript&logoColor=FAF7F2)
+![Tailwind](https://img.shields.io/badge/Tailwind-1A4D2E?style=flat&logo=tailwindcss&logoColor=FAF7F2)
+
+---
+
+*guardclaw.dev · @SumanRohitK7 · Building in public*

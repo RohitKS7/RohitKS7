@@ -6,9 +6,10 @@
 
 ### What I do
 
-I spend time in OpenClaw communities - Discord, Reddit, Twitter/X. I find the questions that come up every week with no clean answer. Then I build a free, open source tool that answers them properly.
+I spend time in OpenClaw communities - Discord, Reddit, Twitter/X. I find the questions that come up every week with no clean answer.   
+Then I build a free, open source tool that answers them properly.
 
-Everything I build lives under [GuardClaw](https://guardclaw.dev) — an OpenClaw tools hub.
+Everything I build lives under [GuardClaw](https://guardclaw.dev) - an OpenClaw tools hub.
 
 ---
 
@@ -23,9 +24,9 @@ Everything I build lives under [GuardClaw](https://guardclaw.dev) — an OpenCla
 
 ### How I work
 
-🔍 **Research** — Find what gets asked twice in the community. 
-🔨 **Build** — Beautiful by default. 3-4 days max.  
-📦 **Ship free** — Open source. Community first. Always.
+🔍 **Research** - Find what gets asked twice in the community.   
+🔨 **Build** - Beautiful by default. 3-4 days max.  
+📦 **Ship free** - Open source. Community first. Always.
 
 ---
 

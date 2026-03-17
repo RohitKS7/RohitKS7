@@ -1,8 +1,9 @@
-# Hi, I'm Rohit 🌿
+# I'm Rohit 🌿
 
-**A dev. Indie builder. Building open source tools for the OpenClaw AI agent community.**
+**I build tools for the OpenClaw community. I find what’s repeatedly broken, and ship simple tools that fix it.**
 
-<img width="1280" height="640" alt="guardclaw-github-banner" src="https://github.com/user-attachments/assets/52c47a14-83e2-44f8-bdb6-59df9d86ccc9" />
+<img width="1280" height="640" alt="guardclaw-github-banner" src="https://github.com/user-attachments/assets/2be8d977-6c8d-48c1-a066-7dcba7c8c1eb" />
+
 
 ### What I do
 
@@ -17,7 +18,8 @@ Everything I build lives under [GuardClaw](https://guardclaw.dev) - an OpenClaw 
 
 | Tool | What it solves | Status |
 |------|---------------|--------|
-| [OpenClaw Model Picker](https://guardclaw.dev/tools/model-picker) | "Which model should I use with OpenClaw?" | 🟢 Live |
+| [OpenClaw Setup Cost Calculator](https://calculator.guardclaw.dev/) | "What my OpenClaw setup costs me?" | 🟢 Live |
+| [OpenClaw Model Picker](https://guardclaw.dev/tools/model-picker) | "Which model should I use with OpenClaw?" | 🟡 Next In Line... |
 | More shipping soon | Researching now | 🟡 Coming |
 
 ---
@@ -32,7 +34,10 @@ Everything I build lives under [GuardClaw](https://guardclaw.dev) - an OpenClaw 
 
 ### Building in public
 
-Every tool I build gets documented publicly on Twitter/X. The idea, the design decisions, the launch.
+Every tool I build gets documented publicly on Twitter/X. The idea, the design decisions, the launch. 
+
+GuardClaw is not a company.
+It's my public build log.
 
 Follow along → [@SumanRohitK7](https://twitter.com/SumanRohitK7)
 

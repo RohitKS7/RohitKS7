@@ -18,8 +18,8 @@ Everything I build lives under [GuardClaw](https://guardclaw.dev) - an OpenClaw 
 
 | Tool | What it solves | Status |
 |------|---------------|--------|
-| [OpenClaw Setup Cost Calculator](https://calculator.guardclaw.dev/) | "What my OpenClaw setup costs me?" | 🟢 Live |
-| [OpenClaw Model Picker](https://guardclaw.dev/tools/model-picker) | "Which model should I use with OpenClaw?" | 🟡 Next In Line... |
+| [OpenClaw Setup Cost Calculator](https://guardclaw.dev/calculator) | "What my OpenClaw setup costs me?" | 🟢 Live |
+| [OpenClaw Model Picker](https://guardclaw.dev/picker) | "Which model should I use with OpenClaw?" | 🟢 Live |
 | More shipping soon | Researching now | 🟡 Coming |
 
 ---
